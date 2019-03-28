@@ -19,7 +19,7 @@ public class Main {
                 System.out.println("Можете отправляться в гости к своему другу");
             }
         }
-//        else if (age < 20){
+//        else if (age < 21){
 //
 //        }
     }
